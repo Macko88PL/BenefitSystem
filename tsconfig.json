@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "baseUrl": "https://jsonplaceholder.typicode.com",
+      "target": "ES6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "dist",
+      "paths": {
+        "@_pw-config": ["playwright.config.ts"],
+        "@_pages/*": ["pages/*"]
+      }
+    },
+    "include": ["tests/**/*.ts"]
+  }
+  
