@@ -16,5 +16,4 @@
 
 ## GitHub
 
-- project code: https://github.com/Macko88PL/PlaywrightZadanko
-- CI/CD (Actions): https://github.com/Macko88PL/PlaywrightZadanko/actions
+- project code: https://github.com/Macko88PL/BenefitSystem
